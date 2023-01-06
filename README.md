@@ -1,5 +1,3 @@
 # odin-recipes
-My first project
-
-The objective of this project is to create and build a basic recipe website.
-The website will include a main index page and a few links to various recipes. Once completed, the website will be functional skeleton for later improvements.
+The Objective
+The first project is to create and build a basic reciepe website. The website will include a main index page as well as various links to reciepes. This will serve as a foundation or skeleton for later improvements to the site.
